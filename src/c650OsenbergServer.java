@@ -1,6 +1,3 @@
-/**
- * Created by Kevin on 11/22/2016.
- */
 import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
 import java.io.DataInputStream;
